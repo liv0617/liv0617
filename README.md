@@ -2,7 +2,7 @@
 
 I'm a research engineer in mechanistic interpretability. 
 
-See my [website](livgorton.com) for more about me and what I've been thinking about recently.
+See my [website](https://livgorton.com) for more about me and what I've been thinking about recently.
 
 ### Reach out!
 
