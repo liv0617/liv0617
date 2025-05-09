@@ -1,6 +1,6 @@
 ### Hi there, I'm Liv 👋
 
-I'm a research engineer in mechanistic interpretability. 
+I'm a mechanistic interpretability researcher.
 
 See my [website](https://livgorton.com) for more about me and what I've been thinking about recently.
 
